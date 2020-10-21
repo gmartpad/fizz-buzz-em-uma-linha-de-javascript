@@ -142,7 +142,7 @@ for(let i = 1; i <= 100; i++)
 
 for(let i = 0; i < 100;) console.log((++i%3?'':'Fizz')+(i%5?'':'Buzz')||i);
 
-// será criada uma variada i com o valor inicial 0.
+// será criada uma variável i com o valor inicial 0.
 // Após isso, ele executará o console.log()
 // com o processamento da lógica de qual string será mostrada 
 // no console ocorrendo da esquerda para a direita:
